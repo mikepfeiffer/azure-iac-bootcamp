@@ -26,3 +26,17 @@ Here are the initial hands-on labs for the Azure Infrastructure as Code Bootcamp
 
 Tim Warner's notes from the bootcamp:<br>
 [timothywarner/inebootcamp](https://github.com/timothywarner/inebootcamp)
+
+### Author
+
+Mike Pfeiffer
+[@mike_pfeiffer](https://twitter.com/mike_pfeiffer)
+[INE Cloud](https://ine.com/learning/areas/cloud)
+
+### Version
+
+1.0.0
+
+### License
+
+This project is licensed under the MIT License
