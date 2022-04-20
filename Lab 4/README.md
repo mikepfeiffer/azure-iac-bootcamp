@@ -5,7 +5,7 @@
 3. Find the clone url for the repo you setup in [Lab 3](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%203).
 4. Clone the repo into your cloud shell.
 5. Perform a "local" ARM template deployment from the cloud shell using Azure CLI.
-6. View the deployment history to confirm.
+6. View the deployment history to confirm everything worked.
 
 ## Challenge
 

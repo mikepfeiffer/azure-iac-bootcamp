@@ -1,11 +1,19 @@
 # Lab 5: Create and Deploy a Bicep Template
 
-1. Open VS Code on your computer.
-2. Install the [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) VS Code extension.
-3. Open the repo your created in [Lab 1](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%201) in VS Code.
+
+1. Create a new repo, follow the same steps in [Lab 1](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%201) but this time name your repo "iac-bicep-project"
+2. Once you've got a local copy of "iac-bicep-project", open it in VS Code.
+3. Install the [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) VS Code extension.
 4. Create a new file called **main.bicep**
 5. Add an Azure Storage Acccount and a Virtual Network resource to your **main.bicep** file.<br>(hint: there's already a completed version in the /templates folder).
 6. Add, commit, and push your changes to GitHub.
+7. Start up a new Azure Lab instance on my.ine.com (if you don't have one already).
+8. Open the cloud shell (the steps on how to do this are covered in [Lab 2](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)).
+9. Find the clone url for the repo your "iac-bicep-project" repo.
+10. Clone the repo into your cloud shell.
+Use the Azure CLI to deploy the Bicep template
+11. View the deployment history to confirm confirm everything worked.
+
 
 ## Challenge
 
