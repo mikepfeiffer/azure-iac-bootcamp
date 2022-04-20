@@ -8,6 +8,12 @@ To perform this lab you'll need Git and VS Code installed locally. You'll also n
 4. Create a new README that documents what this repository is all about. This can be simple, don't overthink it... the goal is to get some practice writing markdown.
 5. Use Git add, commit, and push to sync your local changes to your GitHub repo.
 
+**Challenge**
+
+After you've successfully completed this lab, create a second repo. This time intialize the repo locally from the commandline (instead of on the web) and then push the repo GitHub.
+
+Lab 2: [Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)
+
 
 ### Lifelines
 
