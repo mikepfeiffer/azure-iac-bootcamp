@@ -1,13 +1,37 @@
-# Lab 2 - Configure Your IaC Developer Tools
+# Lab 2: Configure Your IaC Developer Tools
 
-1. Create two new VMs in seperate VNETs and ensure those VNETs use completely seperate IPv4 address spaces
-2. Add a gateway subnet to each vnet
-3. Add a VPN gateway to each vnet
-4. Add a connection object to build the VPN tunnel between vnets
-5. Make sure you can ping across the tunnel from one server to the other
-6. Delete both resource groups from your Azure Pass subscription when complete
+1. Start up a new Azure Lab instance on my.ine.com
+2. Open the Azure portal (you'll notice you have one resource group available).
+3. Create a new storage account inside your resource group.
+4. Start the Azure Cloud Shell and configure the advanced settings. You'll need to persist your files in a new share within your new storage account.
+5. Launch VS Code and install the Azure Account extension.
+6. Open a terminal in VS Code and select "Azure Cloud Shell (Bash)"
+7. Sign into Azure using your temporary Azure AD user account provided by your INE Lab instance.
+8. Locate the clone url for the repo you created in [Lab 1](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%201)
+9. Use the Cloud Shell in VS Code to clone your GitHub repo into your cloud shell instance.
+10. Navigate the file system in the cloud shell to confirm that your clone operation succeeded.
 
-### Notes
+## Bonus Points
 
-Configure a VNet-to-VNet connection using the Azure portal
-* https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal
+After you've completed this lab, practice your Git workflow skills again. Make sure your local repos are up-to-date, and then make a change to your README. Commit and push your changes to GitHub, and pull the updates into the copy you have inside your Cloud Shell.
+
+
+## Lifelines
+
+Create a storage account
+* https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create
+
+Persist files in Azure Cloud Shell
+* https://docs.microsoft.com/en-us/azure/cloud-shell/persisting-shell-storage
+
+Azure Account
+* https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account
+
+Markdown Cheat Sheet
+* https://www.markdownguide.org/cheat-sheet/
+
+Setting up a repository: git clone
+* https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
+
+## Next Lab
+**[Lab 3: Create Your First ARM Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**

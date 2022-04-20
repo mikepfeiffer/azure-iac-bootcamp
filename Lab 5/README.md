@@ -1,17 +1,34 @@
 # Lab 5: Create an Azure SQL Auto-Failover Group
 
-1. Create a new Azure SQL database in the Azure portal on a logical SQL server in the West US 2 region
-2. Navigate to the database resource in the portal, under Settings > Geo Replication
-3. Create a replica for your database in the Central US region (readable)
-4. After the replica has been created, navigate to the properties of your logical SQL Server in West US 2
-5. Go to Settings > Failover Groups
-6. Create a new failover group for your database and configure the logical SQL server in Central US as the secondary server
-7. After the failover group is built, invoke a manual failover in the properties of the failover group
+To perform this lab you'll need Git and VS Code installed locally. You'll also need a GitHub account. Go to [github.com](https://github.com/join) to sign up if you don't already have an account.
 
-### Notes:
+1. Sign into your GitHub account on the web and create a new public repository. This repo will contain all of your Infrastructure as Code (IaC) projects for this bootcamp, so give your repo a meaningful name (e.g. "iac-projects").
+2. Clone your new repository to your local machine.
+3. Open your repository in VS Code.
+4. Create a new README that documents what this repository is all about. This can be simple, don't overthink it... the goal is to get some practice writing markdown.
+5. Use Git add, commit, and push to sync your local changes to your GitHub repo.
 
-Use auto-failover groups to enable transparent and coordinated failover of multiple databases
-* https://docs.microsoft.com/en-us/azure/sql-database/sql-database-auto-failover-group
+## Challenge
 
-Creating and using active geo-replication
-* https://docs.microsoft.com/en-us/azure/sql-database/sql-database-active-geo-replication
+After you've successfully completed this lab, create a second repo. This time intialize the repo locally from the commandline (instead of on the web) and then push the repo GitHub.
+
+
+## Lifelines
+
+Create a Repo
+* https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+Clone and use a GitHub repository in Visual Studio Code
+* https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository
+
+How to Write a Good README
+* https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+Markdown Cheat Sheet
+* https://www.markdownguide.org/cheat-sheet/
+
+First steps with git: clone, add, commit, push Intro version control git
+* https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
+
+## Next Lab
+**[Lab 2: Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**

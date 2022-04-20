@@ -1,24 +1,34 @@
 # Lab 4: Deploy an ARM Template Interactively
 
-Note: This is a complex lab so follow my step-by-step process in this blog post: https://mikepfeiffer.io/azure-docker-containers.html
+To perform this lab you'll need Git and VS Code installed locally. You'll also need a GitHub account. Go to [github.com](https://github.com/join) to sign up if you don't already have an account.
 
-1. Create a mew Azure Container Registry (ACR) Resource
-2. Clone the Sample Node & Express Application
-3. Build the Container Image
-4. Push the image to ACR
-5. Build the Web App Resource
-6. Enable and validate continuous deployment
+1. Sign into your GitHub account on the web and create a new public repository. This repo will contain all of your Infrastructure as Code (IaC) projects for this bootcamp, so give your repo a meaningful name (e.g. "iac-projects").
+2. Clone your new repository to your local machine.
+3. Open your repository in VS Code.
+4. Create a new README that documents what this repository is all about. This can be simple, don't overthink it... the goal is to get some practice writing markdown.
+5. Use Git add, commit, and push to sync your local changes to your GitHub repo.
 
-### Notes
+## Challenge
 
-Build, Run, and Continuously Deploy Docker Containers on Azure App Service
-* https://mikepfeiffer.io/azure-docker-containers.html
+After you've successfully completed this lab, create a second repo. This time intialize the repo locally from the commandline (instead of on the web) and then push the repo GitHub.
 
-Azure for Containers
-* https://docs.microsoft.com/en-us/azure/containers/
 
-Build and store container images with Azure Container Registry
-* https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/
+## Lifelines
 
-Use a custom Docker image for Web App for Containers
-* https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image
+Create a Repo
+* https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+Clone and use a GitHub repository in Visual Studio Code
+* https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository
+
+How to Write a Good README
+* https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+Markdown Cheat Sheet
+* https://www.markdownguide.org/cheat-sheet/
+
+First steps with git: clone, add, commit, push Intro version control git
+* https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
+
+## Next Lab
+**[Lab 2: Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
