@@ -37,4 +37,4 @@ First steps with git: clone, add, commit, push Intro version control git
 **[Lab 2: Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
 
 ## Lab Index
-[github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
+[mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)

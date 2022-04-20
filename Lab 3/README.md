@@ -34,4 +34,4 @@ Use exported template from the Azure portal
 **[Lab 4: Deploy an ARM Template Interactively](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%204)**
 
 ## Lab Index
-[github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
+[mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)

@@ -35,4 +35,4 @@ Setting up a repository: git clone
 **[Lab 3: Create Your First ARM Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%203)**
 
 ## Lab Index
-[github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
+[mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)

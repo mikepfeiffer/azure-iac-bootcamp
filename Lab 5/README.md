@@ -36,4 +36,4 @@ Bicep VS Code extension
 **[Lab 6: Perform an Automated ARM Template Deployment using GitHub Actions](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%206)**
 
 ## Lab Index
-[github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
+[mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)

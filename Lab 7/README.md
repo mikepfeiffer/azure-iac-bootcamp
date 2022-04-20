@@ -6,4 +6,4 @@ Coming soon...
 **[Lab 8: Deploy Staging Infrastructure Automatically via Pull Request](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%208)**
 
 ## Lab Index
-[github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
+[mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
