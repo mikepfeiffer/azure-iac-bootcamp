@@ -20,6 +20,6 @@ These are the initial hands-on labs for the Azure Infrastructure as Code Bootcam
 
 
 
-<br><br>
+<br>
 Tim Warner's notes from the bootcamp:
 https://github.com/timothywarner/inebootcamp
