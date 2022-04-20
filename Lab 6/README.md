@@ -1,0 +1,1 @@
+# Lab 6: Perform an Automated ARM Template Deployment using GitHub Actions
