@@ -1,7 +1,7 @@
 # Lab 4: Deploy an ARM Template Interactively
 
 Start up a new Azure Lab instance on my.ine.com (if you don't have one already).
-Open the cloud shell (the steps on how to do this are covered in [lab 2](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)).
+Open the cloud shell (the steps on how to do this are covered in [Lab 2](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)).
 Find the clone url for the [azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp) repo.
 Clone the **azure-iac-bootcamp** repo into your cloud shell.
 
