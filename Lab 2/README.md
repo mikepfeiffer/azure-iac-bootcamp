@@ -32,4 +32,4 @@ Setting up a repository: git clone
 * https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
 
 ## Next Lab
-**[Lab 3: Create Your First ARM Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
+**[Lab 3: Create Your First ARM Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%203)**

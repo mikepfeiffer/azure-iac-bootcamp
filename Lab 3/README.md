@@ -28,4 +28,4 @@ Use exported template from the Azure portal
 * https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository
 
 ## Next Lab
-**[Lab 4: Deploy an ARM Template Interactively](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
+**[Lab 4: Deploy an ARM Template Interactively](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%204)**
