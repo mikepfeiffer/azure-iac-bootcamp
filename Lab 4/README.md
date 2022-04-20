@@ -6,6 +6,7 @@
 4. Clone the repo into your cloud shell.
 5. Perform a "local" ARM template deployment from the cloud shell using Azure CLI.
 6. View the deployment history to confirm everything worked.
+7. Click "stop" to terminate your INE Lab instance.
 
 ## Challenge
 
