@@ -10,7 +10,7 @@ These are the initial hands-on labs for the Azure Infrastructure as Code Bootcam
 
 - Lab 4: [Deploy an ARM Template Interactively](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%204)
 
-- Lab 5: [Create and Deploy an Bicep Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%205)
+- Lab 5: [Create and Deploy a Bicep Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%205)
 
 - Lab 6: [Perform an Automated ARM Template Deployment using GitHub Actions]
 
