@@ -10,7 +10,7 @@
 
 ## Challenge
 
-Stop your Azure Lab instance on my.ine.com and start a new one. Follow the steps in this lab again, but use PowerShell on step 5 instead of the Azure CLI.
+Start a new Azure Lab instance on my.ine.com. Follow the steps in this lab again, but use PowerShell on step 5 instead of the Azure CLI.
 
 ## Bonus Points
 

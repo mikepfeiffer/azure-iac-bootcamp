@@ -8,7 +8,7 @@
 6. Launch VS Code and install the Azure Account extension.
 7. Open a terminal in VS Code and select "Azure Cloud Shell (Bash)"
 8. Sign into Azure using your temporary Azure AD user account provided by your INE Lab instance.
-9. Locate the clone url for the repo you created in [Lab 1](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%201)
+9. Locate the clone URL for the repo you created in [Lab 1](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%201)
 10. Use the Cloud Shell in VS Code to clone your GitHub repo into your cloud shell instance.
 11. Navigate the file system in the cloud shell to confirm that your clone operation succeeded. 
 
