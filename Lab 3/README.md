@@ -24,6 +24,9 @@ Azure Resource Manager (ARM) Tools
 Create your first ARM template
 * https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template
 
+Create ARM templates with Visual Studio Code
+* https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-templates-use-visual-studio-code
+
 Use exported template from the Azure portal
 * https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository
 

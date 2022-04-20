@@ -12,6 +12,10 @@
 10. Use the Cloud Shell in VS Code to clone your GitHub repo into your cloud shell instance.
 11. Navigate the file system in the cloud shell to confirm that your clone operation succeeded. 
 
+## Challenge
+
+After you've completed this lab, practice your Git workflow skills again. Make sure your local repos are up-to-date, and then make a change to your README. Commit and push your changes to GitHub, and pull the updates into the copy you have inside your Cloud Shell.
+
 ## Bonus Points
 
 After you've completed this lab, practice your Git workflow skills again. Make sure your local repos are up-to-date, and then make a change to your README. Commit and push your changes to GitHub, and pull the updates into the copy you have inside your Cloud Shell.

@@ -10,8 +10,11 @@ To perform this lab you'll need Git and VS Code installed locally. You'll also n
 
 ## Challenge
 
-After you've successfully completed this lab, create a second repo. This time intialize the repo locally from the commandline (instead of on the web) and then push the repo GitHub.
+After you've successfully completed this lab, create a second repo. This time, intialize the repo locally from the commandline (instead of on the web) and then push the repo GitHub.
 
+## Bonus Points
+
+Setting up a [README for your GitHub profile](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) would be a great excercise for practicing your markdown skills.
 
 ## Lifelines
 
