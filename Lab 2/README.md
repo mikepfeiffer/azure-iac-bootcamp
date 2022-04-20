@@ -16,10 +16,6 @@
 
 After you've completed this lab, practice your Git workflow skills again. Make sure your local repos are up-to-date, and then make a change to your README. Commit and push your changes to GitHub, and pull the updates into the copy you have inside your Cloud Shell.
 
-## Bonus Points
-
-After you've completed this lab, practice your Git workflow skills again. Make sure your local repos are up-to-date, and then make a change to your README. Commit and push your changes to GitHub, and pull the updates into the copy you have inside your Cloud Shell.
-
 
 ## Lifelines
 
