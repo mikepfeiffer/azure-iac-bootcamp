@@ -18,8 +18,7 @@ These are the initial hands-on labs for the Azure Infrastructure as Code Bootcam
 
 - *Lab 8: Deploy Staging Infrastructure Automatically via Pull Request*
 
-NOTE: Labs 6-8 will be availble in May 2022
+Note: Labs 6-8 will be availble in May 2022
 
-<br>
 Tim Warner's notes from the bootcamp:
 https://github.com/timothywarner/inebootcamp
