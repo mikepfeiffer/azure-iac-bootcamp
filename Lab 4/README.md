@@ -31,3 +31,6 @@ Update a resource in an Azure Resource Manager template
 
 ## Next Lab
 **[Lab 5: Create and Deploy a Bicep Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%205)**
+
+## Lab Home Page
+[https://github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
