@@ -18,7 +18,7 @@
 
 ## Challenge
 
-Now that you've done a Bicep deployment, try adding a template spec (check the lifelines below).
+Now that you've done a Bicep deployment, re-start the lab and try adding a template spec (check the lifelines below).
 
 
 ## Lifelines
