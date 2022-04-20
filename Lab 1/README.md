@@ -4,7 +4,7 @@ To perform this lab you'll need Git and VS Code installed locally. You'll also n
 
 1. Sign into your GitHub account on the web and create a new public repository. This repo will contain all of your Infrastructure as Code (IaC) projects for this bootcamp, so give your repo a meaningful name (e.g. "iac-projects").
 2. Clone your new repository to your local machine.
-3. Open your repository as a workspace in VS Code.
+3. Open your repository in VS Code.
 4. Create a new README that documents what this repository is all about. This can be simple, don't overthink it... the goal is to get some practice writing markdown.
 5. Use Git add, commit, and push to sync your local changes to your GitHub repo.
 
@@ -13,6 +13,9 @@ To perform this lab you'll need Git and VS Code installed locally. You'll also n
 
 Create a Repo
 * https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+Clone and use a GitHub repository in Visual Studio Code
+* https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository
 
 How to Write a Good README
 * https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
