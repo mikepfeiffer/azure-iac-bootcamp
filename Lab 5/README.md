@@ -23,7 +23,7 @@ First steps with git: clone, add, commit, push Intro version control git
 * https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
 
 ## Next Lab
-**Lab 6: Perform an Automated ARM Template Deployment using GitHub Actions**
+**[Lab 6: Perform an Automated ARM Template Deployment using GitHub Actions](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%206)**
 
 ## Lab Index
 [github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
