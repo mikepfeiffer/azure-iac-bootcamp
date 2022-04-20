@@ -15,8 +15,8 @@ After you've successfully completed this lab, create a second repo. This time in
 
 ## Lifelines
 
-Create a Repo
-* https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+Create and deploy your first ARM template
+* https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template
 
 Clone and use a GitHub repository in Visual Studio Code
 * https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository
