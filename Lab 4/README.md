@@ -2,7 +2,7 @@
 
 1. Start up a new Azure Lab instance on my.ine.com (if you don't have one already).
 2. Open the cloud shell (the steps on how to do this are covered in [Lab 2](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)).
-3. Find the clone url for the repo you setup in [Lab 3](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%203).
+3. Find the clone URL for the repo you setup in [Lab 3](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%203).
 4. Clone the repo into your cloud shell.
 5. Perform a "local" ARM template deployment from the cloud shell using Azure CLI.
 6. View the deployment history to confirm everything worked.

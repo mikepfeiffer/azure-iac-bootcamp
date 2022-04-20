@@ -9,7 +9,7 @@
 6. Add, commit, and push your changes to GitHub.
 7. Start up a new Azure Lab instance on my.ine.com
 8. Open the cloud shell (the steps on how to do this are covered in [Lab 2](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)).
-9. Find the clone url for the repo your "iac-bicep-project" repo.
+9. Find the GitHub clone URL for the repo your "iac-bicep-project" repo.
 10. Clone the repo into your cloud shell.
 Use the Azure CLI to deploy the Bicep template
 11. View the deployment history to confirm confirm everything worked.
