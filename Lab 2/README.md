@@ -24,11 +24,8 @@ Create a storage account
 Persist files in Azure Cloud Shell
 * https://docs.microsoft.com/en-us/azure/cloud-shell/persisting-shell-storage
 
-Azure Account
+Azure Account extension
 * https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account
-
-Markdown Cheat Sheet
-* https://www.markdownguide.org/cheat-sheet/
 
 Setting up a repository: git clone
 * https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
