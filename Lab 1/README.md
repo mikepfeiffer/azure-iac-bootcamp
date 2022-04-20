@@ -1,6 +1,6 @@
 # Lab 1: Create an Infrastructure as Code (IaC) Repo in GitHub
 
-To perform this lab you'll need Git and VS Code installed locally. You'll also need a GitHub account. Go to [github.com](https://github.com/join) to sign up if you don't already have an account.
+To perform all of the labs in this bootcamp, you'll need Git and VS Code installed locally. You'll also need a GitHub account. Go to [github.com](https://github.com/join) to sign up if you don't already have an account.
 
 1. Sign into your GitHub account on the web and create a new public repository. This repo will contain all of your ARM template code. Give your repo a meaningful name, like "iac-arm-project".
 2. Clone your new repository to your local machine.
