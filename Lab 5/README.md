@@ -5,7 +5,7 @@
 2. Once you've got a local copy of "iac-bicep-project", open it in VS Code.
 3. Install the [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep) VS Code extension.
 4. Create a new file called **main.bicep**
-5. Add an Azure Storage Acccount and a Virtual Network resource to your **main.bicep** file.<br>(hint: there's already a completed version in the /templates folder).
+5. Add an Azure Storage Acccount and a Virtual Network resource to your **main.bicep** file.<br>(hint: there's already a completed version in the [/templates](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%205/templates) folder of this repo).
 6. Add, commit, and push your changes to GitHub.
 7. Start up a new Azure Lab instance on my.ine.com (if you don't have one already).
 8. Open the cloud shell (the steps on how to do this are covered in [Lab 2](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)).
