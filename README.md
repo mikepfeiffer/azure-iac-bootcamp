@@ -18,5 +18,8 @@ These are the initial hands-on labs for the Azure Infrastructure as Code Bootcam
 
 - Lab 8: [Deploy Staging Infrastructure Automatically via Pull Request]
 
-Here's Tim Warner's notes from the bootcamp:
+
+
+<br><br><br><br><br>
+Tim Warner's notes from the bootcamp:
 https://github.com/timothywarner/inebootcamp
