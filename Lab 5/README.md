@@ -25,5 +25,5 @@ First steps with git: clone, add, commit, push Intro version control git
 ## Next Lab
 **Lab 6: Perform an Automated ARM Template Deployment using GitHub Actions**
 
-## Lab Home Page
-[https://github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
+## Lab Index
+[github.com/mikepfeiffer/azure-iac-bootcamp](https://github.com/mikepfeiffer/azure-iac-bootcamp)
