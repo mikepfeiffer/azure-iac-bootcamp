@@ -2,7 +2,7 @@
 
 Welcome to the Azure Infrastructure as Code Bootcamp Labs by [INE](https://ine.com). To get the best experience from this repo, you should have an INE Business or Premium subscription. Make sure you watch the [lab intro](https://github.com/mikepfeiffer/azure-iac-bootcamp/blob/main/lab-intro.mp4) as well.
 
-This first set of labs is part of our latest bootcamp, but also will support the "Infrastructure as Code" track in the Azure vertical for INE's upcoming hands-on multi-cloud engineer certification (ICCE). These labs are currently in "beta" and I'm open to feedback, and pull requests are happily accepted.
+This first set of labs is part of our latest bootcamp, but also will support the "Infrastructure as Code" track in the Azure vertical for INE's upcoming hands-on multi-cloud engineer certification (ICCE). These labs are currently in "beta" and I'm open to feedback. Issues and pull requests are happily accepted.
 
 **Note**: Labs 6-8 will be availble in May 2022 when we enable programtic credentials for our Azure labs. This first release only provides a temporary AAD user account that is limited to the Azure Portal/Cloud Shell.
 
