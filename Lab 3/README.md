@@ -10,7 +10,7 @@
 
 ## Challenge
 
-Stop your Azure Lab instance on my.ine.com, and then start a new one. Create a storage account inside your resource group and export the resource group to an ARM template. Compare this template to the one you created manually and see if you can find any differences.
+Export the resource group in your Azure Lab instance to an ARM template. Compare this template to the one you created manually and see if you can find any differences.
 
 ## Bonus Points
 
