@@ -14,7 +14,7 @@ Export the resource group in your Azure Lab instance to an ARM template. Compare
 
 ## Bonus Points
 
-Take a look at your **azuredeploy.json** template. Think creatively how you could make use of template parameters, functions, and variables to customize this template. 
+Take a look at your **azuredeploy.json** template. Think creatively about how you could make use of template parameters, functions, and variables to customize this template. 
 
 ## Lifelines
 

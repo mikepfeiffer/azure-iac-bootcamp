@@ -1,6 +1,6 @@
 # Lab 2: Configure Your IaC Developer Tools
 
-1. Start up a new Azure Lab instance on my.ine.com
+1. Start up a new Azure Lab instance on my.ine.com.
 2. Open the Azure portal (you'll notice you have one resource group available).
 3. Create a new storage account inside your resource group.
 4. Start the Azure Cloud Shell (use bash or powershell, your choice).
