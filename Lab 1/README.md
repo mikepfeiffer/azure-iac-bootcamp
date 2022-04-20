@@ -31,4 +31,4 @@ First steps with git: clone, add, commit, push Intro version control git
 * https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
 
 ## Next Lab
-**[Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
+**[Lab 2: Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
