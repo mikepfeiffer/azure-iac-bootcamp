@@ -12,10 +12,8 @@ To perform this lab you'll need Git and VS Code installed locally. You'll also n
 
 After you've successfully completed this lab, create a second repo. This time intialize the repo locally from the commandline (instead of on the web) and then push the repo GitHub.
 
-**Next lab: [Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
 
-
-### Lifelines
+## Lifelines
 
 Create a Repo
 * https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
@@ -31,3 +29,6 @@ Markdown Cheat Sheet
 
 First steps with git: clone, add, commit, push Intro version control git
 * https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
+
+## Next Lab
+**[Configure Your IaC Developer Tools](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
