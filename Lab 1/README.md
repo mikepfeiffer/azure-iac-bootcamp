@@ -1,21 +1,24 @@
 # Lab 1 - Create an Infrastructure as Code (IaC) Repo in GitHub
 
-1. Launch the load balancer ARM template from [here](https://github.com/AzureInterface/quickstart/tree/master/azure-load-balancer) Note: The VM types in the template may not be available in your Azure Pass. You can edit the template during launch to use the Standard_B2s VM size.
-2. Verify you can connect remotely via NAT rules
-3. Set up a basic web server / web page on each VM
-4. Create a HTTP probe for the load balancer
-5. Create a load balancer rule for HTTP
-6. Verify you can visit your website through the load balancer
-7. Verify your load balanced site still works after killing one of the web servers
-8. Delete the resource group from your Azure Pass subscription when complete
+To perform this lab you'll need Git and VS Code installed locally. You'll also need a GitHub account. Go to [github.com](https://github.com/join) to sign up if you don't already have an account.
 
-### Notes
+1. Sign into your GitHub account on the web and create a new public repository. This repo will contain all of your Infrastructure as Code (IaC) projects for this bootcamp, so give your repo a meaningful name (e.g. "iac-projects").
+2. Clone your new repository to your local machine.
+3. Open your repository as a workspace in VS Code.
+4. Create a new README that documents what this repository is all about. This can be simple, don't overthink it... the goal is to get some practice writing markdown.
+5. Use Git add, commit, and push to sync your local changes to your GitHub repo.
 
-Azure Load Balancer overview
+
+### Lifelines
+
+Create a Repo
 * https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
 
-Creating an Internet-facing load balancer using the Azure portal
-* https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-get-started-internet-portal
+How to Write a Good README
+* https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
-Install IIS
-* https://docs.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/install-the-web-server-web1
+Markdown Cheat Sheet
+* https://www.markdownguide.org/cheat-sheet/
+
+First steps with git: clone, add, commit, push Intro version control git
+* https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
