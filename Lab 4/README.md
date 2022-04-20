@@ -30,4 +30,4 @@ Update a resource in an Azure Resource Manager template
 * https://docs.microsoft.com/en-us/azure/architecture/guide/azure-resource-manager/advanced-templates/update-resource
 
 ## Next Lab
-**[Lab 5: Deploy xyz...](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%202)**
+**[Lab 5: Create and Deploy a Bicep Template](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%205)**
