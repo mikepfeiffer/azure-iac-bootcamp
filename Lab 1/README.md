@@ -1,4 +1,4 @@
-# Lab 1 - Create an Infrastructure as Code (IaC) Repo in GitHub
+# Lab 1: Create an Infrastructure as Code (IaC) Repo in GitHub
 
 To perform this lab you'll need Git and VS Code installed locally. You'll also need a GitHub account. Go to [github.com](https://github.com/join) to sign up if you don't already have an account.
 
