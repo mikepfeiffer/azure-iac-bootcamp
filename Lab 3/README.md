@@ -4,7 +4,7 @@
 2. Install the [Azure Resource Manager (ARM) Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) extension.
 3. Open the repo your created in [lab 1](https://github.com/mikepfeiffer/azure-iac-bootcamp/tree/main/Lab%201) in VS Code.
 4. Create a new file called **azuredeploy.json**
-5. Add an Azure Storage Acccount resource to your **azuredeploy.json** template. (hint: there's already a completed version in the /templates folder).
+5. Add an Azure Storage Acccount resource to your **azuredeploy.json** template.<br>(hint: there's already a completed version in the /templates folder).
 6. Add, commit, and push your changes to GitHub.
 
 
